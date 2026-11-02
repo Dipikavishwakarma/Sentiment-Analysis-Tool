@@ -1,4 +1,4 @@
-# 🔍 SentiScope — Sentiment Analysis Engine
+# 🔍 Sentiment Analysis Tool
 
 A full-stack NLP project that classifies customer feedback into three distinct phases: **Positive**, **Neutral**, or **Negative**. Built with classical Machine Learning (Logistic Regression + TF-IDF) and deployed via an interactive Streamlit web dashboard.
 
